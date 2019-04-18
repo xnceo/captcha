@@ -89,7 +89,7 @@ class Captcha
     /**
      * @var int
      */
-    protected $length = 5;
+    protected $length = 4;
 
     /**
      * @var int
